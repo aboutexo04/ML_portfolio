@@ -45,6 +45,7 @@ npm install
 # 3. 개발 서버 실행
 npm run dev
 # 브라우저에서 http://localhost:5173 접속
+```
 ## 📂 프로젝트 구조 (Project Structure)
 
 ```text
