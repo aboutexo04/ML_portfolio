@@ -2,8 +2,7 @@
 
 > **아파트 실거래가 예측 대회의 실험 모델 성능 추이를 추적하고 비교 분석하기 위한 React 기반 대시보드**
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Insert+Dashboard+Screenshot+Here)
-*(실행 화면 스크린샷을 여기에 넣어주세요)*
+<img width="1283" height="336" alt="image" src="https://github.com/user-attachments/assets/d5ce48af-75a4-44a8-8d47-a563c614b91d" />
 
 ## 1. 프로젝트 개요 (Overview)
 본 프로젝트는 '아파트 실거래가 예측 AI 경진대회' 진행 중 발생한 수많은 실험 데이터(Submission Logs)를 체계적으로 관리하기 위해 개발되었습니다.
